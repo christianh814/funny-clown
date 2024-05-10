@@ -22,7 +22,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: https://github.com/<repo>
+        repoURL: https://github.com/christianh814/funny-clown
         targetRevision: main
         path: 'app/env/{{env}}'
       destination:
